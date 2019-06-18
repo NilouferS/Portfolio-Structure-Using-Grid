@@ -10,6 +10,7 @@ function App() {
      <div>
      <About></About>
      <Skills></Skills>
+     <contact></contact>
      </div>
      
    </Router>
