@@ -1,3 +1,7 @@
 ul {
-    
+    font-size: 20px;
+}
+.header {
+    display: grid;
+    grid-template-rows: 5% 40%;
 }
