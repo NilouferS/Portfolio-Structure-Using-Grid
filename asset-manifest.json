@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Portfolio1/static/css/main.32e9b333.chunk.css",
-    "main.js": "/Portfolio1/static/js/main.7f1c0c96.chunk.js",
-    "main.js.map": "/Portfolio1/static/js/main.7f1c0c96.chunk.js.map",
-    "runtime~main.js": "/Portfolio1/static/js/runtime~main.dab7d901.js",
-    "runtime~main.js.map": "/Portfolio1/static/js/runtime~main.dab7d901.js.map",
-    "static/js/2.f34114c2.chunk.js": "/Portfolio1/static/js/2.f34114c2.chunk.js",
-    "static/js/2.f34114c2.chunk.js.map": "/Portfolio1/static/js/2.f34114c2.chunk.js.map",
-    "index.html": "/Portfolio1/index.html",
-    "precache-manifest.2e5efd349db9e70e8625d73220f5381a.js": "/Portfolio1/precache-manifest.2e5efd349db9e70e8625d73220f5381a.js",
-    "service-worker.js": "/Portfolio1/service-worker.js",
-    "static/css/main.32e9b333.chunk.css.map": "/Portfolio1/static/css/main.32e9b333.chunk.css.map",
-    "static/media/bootstrap.png": "/Portfolio1/static/media/bootstrap.87d99487.png",
-    "static/media/react.png": "/Portfolio1/static/media/react.8d859602.png",
-    "static/media/App.css": "/Portfolio1/static/media/self.e895e239.jpg",
-    "static/media/wordpress.png": "/Portfolio1/static/media/wordpress.6ded14c8.png"
+    "main.css": "/portfolio/static/css/main.210dd15b.chunk.css",
+    "main.js": "/portfolio/static/js/main.4a38264e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.4a38264e.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/js/2.f34114c2.chunk.js": "/portfolio/static/js/2.f34114c2.chunk.js",
+    "static/js/2.f34114c2.chunk.js.map": "/portfolio/static/js/2.f34114c2.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.c0772fa5ad30e11de3368a833447f0e9.js": "/portfolio/precache-manifest.c0772fa5ad30e11de3368a833447f0e9.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.210dd15b.chunk.css.map": "/portfolio/static/css/main.210dd15b.chunk.css.map",
+    "static/media/bootstrap.png": "/portfolio/static/media/bootstrap.87d99487.png",
+    "static/media/react.png": "/portfolio/static/media/react.8d859602.png",
+    "static/media/App.css": "/portfolio/static/media/self.e895e239.jpg",
+    "static/media/wordpress.png": "/portfolio/static/media/wordpress.6ded14c8.png"
   }
 }
