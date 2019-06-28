@@ -9,10 +9,10 @@ export default function Header() {
                 <h4>Full Stack Developer</h4>
             </div>
             <ul className='headerItem'>
-                <li>About</li>
-                <li>Skills</li>
-                <li>Project</li>
-                <li>Contact</li>
+                <li><a href='#about'>About</a></li>
+                <li><a href='#skills'>Skills</a></li>
+                <li><a href='#project'>Project</a></li>
+                <li><a href='#contact'>Contact</a></li>
             </ul>
            
         </div>

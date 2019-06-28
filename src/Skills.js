@@ -11,7 +11,7 @@ import wordpress from './images/wordpress.png';
 import'./Skills.css' ;
 export default function About() {
     return (
-        <div className='skills'>
+        <div id='skills'>
             <h1 className='title'>SKILLS</h1>
             <div className='icon'>
                 <h1>Front End</h1>

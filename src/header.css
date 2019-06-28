@@ -3,5 +3,10 @@ ul {
 }
 .header {
     display: grid;
+    /* position: fixed; */
     grid-template-rows: 5% 40%;
+}
+.headerItem {
+    position: relative;
+    
 }
